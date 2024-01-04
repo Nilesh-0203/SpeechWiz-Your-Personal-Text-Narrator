@@ -17,7 +17,4 @@ Check it out here: GitHub Repo
 
 Feel free to explore and let me know what you think! 👨‍💻🔉 #TextToSpeech #WebDevelopment #JavaScript #HTML #CSS #TechInnovation
 
-User
-give it in short
-ChatGPT
-🔊 Developed a Text-to-Speech Converter! 🌐 Used HTML, CSS, and JavaScript to create an engaging interface. 🗣️ Integrated with the Speech Synthesis API for dynamic voice selection. Check it out on GitHub: [Repo Link] #TextToSpeech #WebDev 🎙️👨‍💻
+🔊 Developed a Text-to-Speech Converter! 🌐 Used HTML, CSS, and JavaScript to create an engaging interface. 🗣️ Integrated with the Speech Synthesis API for dynamic voice selection.#TextToSpeech #WebDev 🎙️👨‍💻
